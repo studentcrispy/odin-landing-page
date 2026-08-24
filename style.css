@@ -1,0 +1,42 @@
+body{
+    font-family: Roboto;
+    padding: 0px;
+    margin: 0px;
+}
+
+/* TOP-SECTON */
+
+.header, .top-content {
+    padding: 0 150px;
+    margin: 0px;
+    background-color: #1f2937;
+    color: white;
+}
+
+.header p, .top-content p {
+    margin: 0px
+}
+
+.header {
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 150px;
+}
+
+.header .flex {
+    display: flex;
+    gap: 15px;
+    font-size: 13px;
+}
+
+.header .bold {
+    font-weight: 900;
+    font-size: 22px;
+    color: #f9faf8;
+}
+
+.header .small-text {
+
+}
